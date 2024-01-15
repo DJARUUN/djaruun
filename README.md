@@ -1,8 +1,6 @@
 <div align="center">
 
-  ## DJARUUN
-
-  ### Hello there 👋🏼
+  ## Hello there 👋🏼
   
   Me is very epic and I be programming sometimes yes :)
   
