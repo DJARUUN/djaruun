@@ -4,6 +4,8 @@
 ---
 ### Some things about me
 My website: [djaruun.vercel.app](https://djaruun.vercel.app)
+
+My first real project in Vue: [chucktype.vercel.app](https://chucktype.vercel.app)
 <!--
 <div align="center">
 
