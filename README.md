@@ -1,5 +1,5 @@
 ## Hello there 👋🏼
-<p>I'm what many would call a nerd. I've been programming for a bit and don't see it ending any time soon.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet leo nisl. Aenean viverra.</p>
 
 ---
 ### Some things about me
