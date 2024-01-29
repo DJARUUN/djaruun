@@ -1,6 +1,9 @@
-### Hello there 👋🏼
+## Hello there 👋🏼
+<p>I'm what many would call a nerd. I've been programming for a bit and don't see it ending any time soon.</p>
 
-[Personal website](https://djaruun.vercel.app)
+---
+### Some things about me
+My website: [djaruun.vercel.app](https://djaruun.vercel.app)
 <!--
 <div align="center">
 
