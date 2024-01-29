@@ -3,9 +3,13 @@
 
 ---
 ### Some things about me
-My website: [djaruun.vercel.app](https://djaruun.vercel.app)
+**Personal website**<br>
+My corner of the internet to show what i have done<br>
+[djaruun.vercel.app](https://djaruun.vercel.app)
 
-My first real project in Vue: [chucktype.vercel.app](https://chucktype.vercel.app)
+**Chucktype.vue**<br>
+My first real project in Vue<br>
+[chucktype.vercel.app](https://chucktype.vercel.app)
 <!--
 <div align="center">
 
