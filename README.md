@@ -3,7 +3,7 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet leo nisl. Aenean viverra.
 
 **What I'm doing right now**<br>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=15&pause=500&color=006AFF&random=true&width=435&height=40&lines=probably+programming;playing+minecraft;ranking+up+in+vscode;jaywalking+on+trafficked+streets)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=15&pause=500&color=006AFF&random=true&width=435&height=40&lines=programming+intensively;jaywalking+over+trafficked+streets;ranking+up+in+vscode;playing+minecraft;forfeiting+just+before+losing;asking+chatgpt+for+help;eating+lunch;sleeping;reading+documentation;visiting+among.us;watching+youtube;pythoning+all+over+the+place;hating+php;loving+frameworks)
 
 ## My goals and achievements
 **What I know and don't know**
