@@ -2,11 +2,11 @@
 #  Hello there 👋🏼
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet leo nisl. Aenean viverra.
 
-**What I'm doing right now:**<br>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=15&pause=500&color=006AFF&random=true&width=435&height=35&lines=probably+programming;playing+minecraft;ranking+up+in+vscode;jaywalking+on+trafficked+streets)
+**What I'm doing right now**<br>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=15&pause=500&color=006AFF&random=true&width=435&height=40&lines=probably+programming;playing+minecraft;ranking+up+in+vscode;jaywalking+on+trafficked+streets)
 
 ## My goals and achievements
-**What I know and don't know:**
+**What I know and don't know**
 |`2024-01-30`||
 |-|-|
 |Know well| ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white.) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)|
