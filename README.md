@@ -14,6 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet leo ni
 |Pretty good|![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/Expo-000020.svg?style=for-the-badge&logo=Expo&logoColor=white) ![NextJS](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)|
 |Kinda know|![Vue.JS](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white) ![Nuxt](https://img.shields.io/badge/Nuxt.js-00DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)|
 |Just started|![Svelte](https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=Svelte&logoColor=white)|
+<!--
 <br>
 
 ##  Some of my projects
@@ -29,3 +30,4 @@ My first real project in Vue. Typing game with really bad Chuck Norris jokes as 
 
 ## A few cool stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJAruun&layout=compact&theme=transparent)
+!-->
