@@ -1,19 +1,21 @@
-<kbd><strong>[former vscode user](https://neovim.io/)</strong></kbd>
-&thinsp;<kbd><strong>[nightfall dimmed enjoyer](https://gitlab.com/djaruun/nightfall-dimmed.nvim)</strong></kbd>
+<kbd>**[neovim enjoyer](https://neovim.io/)**</kbd>
+&thinsp;<kbd>**[god-tier developer](https://github.com/djaruun/bliss)**</kbd>
 
 # Hello there 👋🏼
 
 ##### *wannabe programmer using windows wishing it was linux*<br>
+
 Peep the **[repositories tab](https://github.com/DJARUUN?tab=repositories)** if you wanna see my projects or visit **[my website](https://djaruun.gitlab.io)** for more of me!
 
 ---
 
 #### Some things I enjoy
 
-[<img alt="Gleam" src="https://gleam.run/images/lucy/lucy.svg" height="45">](https://gleam.run)
-&nbsp;&nbsp;[<img alt="Elixir" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FE%2Felixir-logo-CF24E6FA55-seeklogo.com.png&f=1&nofb=1&ipt=4f06f8f06056ad6995ab6957416fae6981f606f1bafdb9fa2e3aba6276f00a33&ipo=images" height="41">](https://elixir-lang.org)
-&nbsp;&nbsp;&nbsp;[<img alt="Svelte" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" height="38">](https://svelte.dev)
-&nbsp;[<img alt="Go" src="https://miro.medium.com/v2/resize:fit:1000/0*YISbBYJg5hkJGcQd.png" height="38">](https://go.dev)
+[<img alt="Ocaml (my caml)" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ocaml_logo_icon_170902.png" height="42">](https://ocaml.org)
+&nbsp;&nbsp;&thinsp;[<img alt="Gleam" src="https://gleam.run/images/lucy/lucy.svg" height="45">](https://gleam.run)
+&nbsp;&nbsp;&nbsp;[<img alt="Elixir" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FE%2Felixir-logo-CF24E6FA55-seeklogo.com.png&f=1&nofb=1&ipt=4f06f8f06056ad6995ab6957416fae6981f606f1bafdb9fa2e3aba6276f00a33&ipo=images" height="41">](https://elixir-lang.org)
+&nbsp;&nbsp;&nbsp;&nbsp;[<img alt="Svelte" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" height="38">](https://svelte.dev)
+&nbsp;&nbsp;[<img alt="Go" src="https://miro.medium.com/v2/resize:fit:1000/0*YISbBYJg5hkJGcQd.png" height="38">](https://go.dev)
 
 ---
 
