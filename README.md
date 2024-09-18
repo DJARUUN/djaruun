@@ -5,7 +5,7 @@
 
 ##### *wannabe programmer using windows wishing it was linux*<br>
 
-Peep the **[repositories tab](https://github.com/DJARUUN?tab=repositories)** if you wanna see my projects or visit **[my website](https://djaruun.gitlab.io)** for more of me!
+Peep the **[repositories tab](https://github.com/DJARUUN?tab=repositories)** if you wanna see my projects or visit **[my website](https://djaruun.github.io)** for more of me!
 
 ---
 
@@ -21,10 +21,10 @@ Peep the **[repositories tab](https://github.com/DJARUUN?tab=repositories)** if 
 
 #### Cool things I've made
 
-<kbd>&thinsp;<img alt="My dotfiles" src="https://gitlab.com/uploads/-/system/project/avatar/59006208/dotfiles.jpg?width=32" width="17"> **[My dotfiles](https://gitlab.com/djaruun/dotfiles)**&nbsp;</kbd>
-&thinsp;<kbd>&thinsp;<img alt="clipboard.nvim" src="https://gitlab.com/uploads/-/system/project/avatar/60270983/communityIcon_n2hvyn96zwk81.png?width=48" width="17"> **[clipboard.nvim](https://gitlab.com/djaruun/clipboard.nvim)**&nbsp;</kbd>
+<kbd>&thinsp;<img alt="My dotfiles" src="https://github.com/uploads/-/system/project/avatar/59006208/dotfiles.jpg?width=32" width="17"> **[My dotfiles](https://github.com/djaruun/dotfiles)**&nbsp;</kbd>
+&thinsp;<kbd>&thinsp;<img alt="clipboard.nvim" src="https://github.com/uploads/-/system/project/avatar/60270983/communityIcon_n2hvyn96zwk81.png?width=48" width="17"> **[clipboard.nvim](https://github.com/djaruun/clipboard.nvim)**&nbsp;</kbd>
 &thinsp;<kbd>&thinsp;<img alt="Chucktype.svelte" src="https://avatars.githubusercontent.com/u/89078636?s=32&v=4" width="17"> **[Chucktype.svelte](https://github.com/DJAruun/chucktype.svelte)**&nbsp;</kbd>
-&thinsp;<kbd>&thinsp;<img alt="GOllama" src="https://gitlab.com/uploads/-/system/project/avatar/57442101/appicon.png?width=48" width="17"> **[GOllama](https://gitlab.com/djaruun/gollama)**&nbsp;</kbd>
+&thinsp;<kbd>&thinsp;<img alt="GOllama" src="https://github.com/uploads/-/system/project/avatar/57442101/appicon.png?width=48" width="17"> **[GOllama](https://github.com/djaruun/gollama)**&nbsp;</kbd>
 
 ---
 
