@@ -1,2 +1,34 @@
+<kbd><strong>[former vscode user](https://neovim.io/)</strong></kbd>
+&thinsp;<kbd><strong>[nightfall dimmed enjoyer](https://gitlab.com/djaruun/nightfall-dimmed.nvim)</strong></kbd>
+
 # Hello there 👋🏼
-Ive officially moved over to GitLab as my primary git provider. Everything that is here will be left in place but if you want to see any of my new things go to [my GitLab page](https://gitlab.com/djaruun)!
+
+##### *wannabe programmer using windows wishing it was linux*<br>
+Peep the **[repositories tab](https://github.com/DJARUUN?tab=repositories)** if you wanna see my projects or visit **[my website](https://djaruun.gitlab.io)** for more of me!
+
+---
+
+#### Some things I enjoy
+
+[<img alt="Gleam" src="https://gleam.run/images/lucy/lucy.svg" height="45">](https://gleam.run)
+&nbsp;&nbsp;[<img alt="Elixir" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FE%2Felixir-logo-CF24E6FA55-seeklogo.com.png&f=1&nofb=1&ipt=4f06f8f06056ad6995ab6957416fae6981f606f1bafdb9fa2e3aba6276f00a33&ipo=images" height="41">](https://elixir-lang.org)
+&nbsp;&nbsp;&nbsp;[<img alt="Svelte" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" height="38">](https://svelte.dev)
+&nbsp;[<img alt="Go" src="https://miro.medium.com/v2/resize:fit:1000/0*YISbBYJg5hkJGcQd.png" height="38">](https://go.dev)
+
+---
+
+#### Cool things I've made
+
+<kbd>&thinsp;<img alt="My dotfiles" src="https://gitlab.com/uploads/-/system/project/avatar/59006208/dotfiles.jpg?width=32" width="17"> **[My dotfiles](https://gitlab.com/djaruun/dotfiles)**&nbsp;</kbd>
+&thinsp;<kbd>&thinsp;<img alt="clipboard.nvim" src="https://gitlab.com/uploads/-/system/project/avatar/60270983/communityIcon_n2hvyn96zwk81.png?width=48" width="17"> **[clipboard.nvim](https://gitlab.com/djaruun/clipboard.nvim)**&nbsp;</kbd>
+&thinsp;<kbd>&thinsp;<img alt="Chucktype.svelte" src="https://avatars.githubusercontent.com/u/89078636?s=32&v=4" width="17"> **[Chucktype.svelte](https://github.com/DJAruun/chucktype.svelte)**&nbsp;</kbd>
+&thinsp;<kbd>&thinsp;<img alt="GOllama" src="https://gitlab.com/uploads/-/system/project/avatar/57442101/appicon.png?width=48" width="17"> **[GOllama](https://gitlab.com/djaruun/gollama)**&nbsp;</kbd>
+
+---
+
+#### My social links
+
+&thinsp;<kbd>&thinsp;<img alt="DJARUUN" src="https://docs.modrinth.com/img/logo.svg" width="18"> **[DJARUUN](https://modrinth.com/user/DJARUUN)**&nbsp;</kbd>
+&thinsp;<kbd>&thinsp;<img alt="@djaruun" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="23"> **[@djaruun](https://discord.com)**&nbsp;</kbd>
+&thinsp;<kbd>&thinsp;<img alt="@djaruun1" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Twitter_and_X_logos.svg/2560px-Twitter_and_X_logos.svg.png" width="39"> **[@djaruun1](https://x.com/djaruun1)**&nbsp;</kbd>
+&thinsp;<kbd>&thinsp;<img alt="DJAruun" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="16"> **[DJAruun](https://github.com/DJAruun)**&nbsp;</kbd>
