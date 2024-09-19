@@ -11,7 +11,7 @@ Peep the **[repositories tab](https://github.com/DJARUUN?tab=repositories)** if 
 
 #### Some things I enjoy
 
-[<img alt="Ocaml (my caml)" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ocaml_logo_icon_170902.png" height="42">](https://ocaml.org)
+[<img alt="Ocaml (my caml)" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ocaml_logo_icon_170902.png" height="41">](https://ocaml.org)
 &nbsp;&nbsp;&thinsp;[<img alt="Gleam" src="https://gleam.run/images/lucy/lucy.svg" height="45">](https://gleam.run)
 &nbsp;&nbsp;&nbsp;[<img alt="Elixir" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FE%2Felixir-logo-CF24E6FA55-seeklogo.com.png&f=1&nofb=1&ipt=4f06f8f06056ad6995ab6957416fae6981f606f1bafdb9fa2e3aba6276f00a33&ipo=images" height="41">](https://elixir-lang.org)
 &nbsp;&nbsp;&nbsp;&nbsp;[<img alt="Svelte" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" height="38">](https://svelte.dev)
