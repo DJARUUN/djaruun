@@ -11,11 +11,11 @@ Peep the **[repositories tab](https://github.com/DJARUUN?tab=repositories)** if 
 
 #### Some things I enjoy
 
-[<img alt="Ocaml (my caml)" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ocaml_logo_icon_170902.png" height="41">](https://ocaml.org)
-&nbsp;&nbsp;&thinsp;[<img alt="Gleam" src="https://gleam.run/images/lucy/lucy.svg" height="45">](https://gleam.run)
-&nbsp;&nbsp;&nbsp;[<img alt="Elixir" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FE%2Felixir-logo-CF24E6FA55-seeklogo.com.png&f=1&nofb=1&ipt=4f06f8f06056ad6995ab6957416fae6981f606f1bafdb9fa2e3aba6276f00a33&ipo=images" height="41">](https://elixir-lang.org)
-&nbsp;&nbsp;&nbsp;&nbsp;[<img alt="Svelte" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" height="38">](https://svelte.dev)
-&nbsp;&nbsp;[<img alt="Go" src="https://miro.medium.com/v2/resize:fit:1000/0*YISbBYJg5hkJGcQd.png" height="38">](https://go.dev)
+[<img alt="Ocaml (my caml)" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ocaml_logo_icon_170902.png" height="41">](https://ocaml.org) 
+&nbsp;&thinsp;&thinsp;&thinsp;[<img alt="JavaScript" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s" height="37">](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+&nbsp;&nbsp;[<img alt="Gleam" src="https://gleam.run/images/lucy/lucy.svg" height="43">](https://gleam.run)
+&nbsp;&nbsp;&nbsp;[<img alt="Elixir" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FE%2Felixir-logo-CF24E6FA55-seeklogo.com.png&f=1&nofb=1&ipt=4f06f8f06056ad6995ab6957416fae6981f606f1bafdb9fa2e3aba6276f00a33&ipo=images" height="40">](https://elixir-lang.org)
+&nbsp;&nbsp;&nbsp;[<img alt="PHP: Hypertext Preprocessor" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png" height="29">](https://www.php.net/)
 
 ---
 
