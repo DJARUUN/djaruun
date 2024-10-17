@@ -3,7 +3,7 @@
 
 # Hello there 👋🏼
 
-###### *"dysfunctional programming" - Einstein probably*<br>
+###### *"Dysfunctional programming" - Einstein probably*<br>
 
 Peep the **[repositories tab](https://github.com/DJARUUN?tab=repositories)** if you wanna see my projects or visit **[my website](https://djaruun.github.io)** for more of me!
 
