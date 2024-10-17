@@ -3,7 +3,7 @@
 
 # Hello there 👋🏼
 
-##### *wannabe programmer using windows wishing it was linux*<br>
+###### *"dysfunctional programming" - Einstein probably*<br>
 
 Peep the **[repositories tab](https://github.com/DJARUUN?tab=repositories)** if you wanna see my projects or visit **[my website](https://djaruun.github.io)** for more of me!
 
