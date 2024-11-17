@@ -29,7 +29,7 @@ Peep the **[repositories tab](https://github.com/DJARUUN?tab=repositories)** if 
 
 #### My social links
 
-&thinsp;<kbd>&thinsp;<img alt="DJARUUN" src="https://docs.modrinth.com/img/logo.svg" width="18"> **[DJARUUN](https://modrinth.com/user/DJARUUN)**&nbsp;</kbd>
+&thinsp;<kbd>&thinsp;<img alt="DJARUUN" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fminecraft-esp%2Fimages%2F4%2F4b%2FModrinth_Logo.png%2Frevision%2Flatest%2Fscale-to-width-down%2F1200%3Fcb%3D20231227082445%26path-prefix%3Des&f=1&nofb=1&ipt=bf5aa96ce9eff911705ec034ea6935c6b7c7235dd47e29dcb1e297a1185ec43e&ipo=images" width="18"> **[DJARUUN](https://modrinth.com/user/DJARUUN)**&nbsp;</kbd>
 &thinsp;<kbd>&thinsp;<img alt="@djaruun" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="23"> **[@djaruun](https://discord.com)**&nbsp;</kbd>
 &thinsp;<kbd>&thinsp;<img alt="@djaruun1" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Twitter_and_X_logos.svg/2560px-Twitter_and_X_logos.svg.png" width="39"> **[@djaruun1](https://x.com/djaruun1)**&nbsp;</kbd>
 &thinsp;<kbd>&thinsp;<img alt="DJAruun" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="16"> **[DJAruun](https://github.com/DJAruun)**&nbsp;</kbd>
