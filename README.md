@@ -36,4 +36,4 @@ Peep the **[repositories tab](https://github.com/DJARUUN?tab=repositories)** if 
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=djaruun&theme=github-compact)]([https://github.com/ashutosh00710/github-readme-activity-graph](https://github.com/DJARUUN#action-menu-52369f18-ce7b-4d9a-b402-94c0d5614f01-button))
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=djaruun&theme=github-compact)](https://github.com/DJARUUN#action-menu-52369f18-ce7b-4d9a-b402-94c0d5614f01-button)
