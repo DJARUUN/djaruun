@@ -33,3 +33,7 @@ Peep the **[repositories tab](https://github.com/DJARUUN?tab=repositories)** if 
 &thinsp;<kbd>&thinsp;<img alt="@djaruun" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="23"> **[@djaruun](https://discord.com)**&nbsp;</kbd>
 &thinsp;<kbd>&thinsp;<img alt="@djaruun1" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Twitter_and_X_logos.svg/2560px-Twitter_and_X_logos.svg.png" width="39"> **[@djaruun1](https://x.com/djaruun1)**&nbsp;</kbd>
 &thinsp;<kbd>&thinsp;<img alt="DJAruun" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="16"> **[DJAruun](https://github.com/DJAruun)**&nbsp;</kbd>
+
+---
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=djaruun&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
