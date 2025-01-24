@@ -11,8 +11,11 @@ Peep the **[repositories tab](https://github.com/DJARUUN?tab=repositories)** if 
 
 #### Some things I enjoy
 
-[<img alt="Ocaml (my caml)" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ocaml_logo_icon_170902.png" height="41">](https://ocaml.org) 
-&nbsp;&thinsp;&thinsp;&thinsp;[<img alt="JavaScript" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s" height="37">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<!--[<img alt="Ocaml (my caml)" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ocaml_logo_icon_170902.png" height="41">](https://ocaml.org) 
+&nbsp;&thinsp;&thinsp;&thinsp;-->
+[<img alt="JavaScript" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s" height="37">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+&nbsp;&nbsp;&nbsp;[<img alt="Nuxt" src="https://cdn.prod.website-files.com/62865614b39c464b76d339aa/663555c0065bdcced0870641_Nuxt-2.svg" height="32">](https://nuxt.com)
+&nbsp;&nbsp;[<img alt="React" src="https://react.dev/images/brand/logo_dark.svg" height="35">](https://react.dev)
 &nbsp;&nbsp;[<img alt="PHP: Hypertext Preprocessor" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png" height="29">](https://www.php.net/)
 
 ---
