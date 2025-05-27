@@ -1,5 +1,5 @@
-<kbd>**[neovim enjoyer](https://neovim.io/)**</kbd>
-&thinsp;<kbd>**[god-tier developer](https://github.com/djaruun/bliss)**</kbd>
+<!--<kbd>**[neovim enjoyer](https://neovim.io/)**</kbd>
+&thinsp;<kbd>**[god-tier developer](https://github.com/djaruun/bliss)**</kbd>-->
 
 # Hello there 👋🏼
 
